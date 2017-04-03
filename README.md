@@ -8,7 +8,7 @@ The mobile web application includes features including:
       adding a playlist
       search bar
     
- The languages/tools involved are listed as following
+ The languages/tools involved are listed as following:
     
       Javascript
       JSON
@@ -17,6 +17,6 @@ The mobile web application includes features including:
       Node.js
       Sqlite3
 
-Instruction
+Instruction:
 
       use the local server built with Node.js to run the web application
