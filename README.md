@@ -19,4 +19,4 @@ The mobile web application includes features including:
 
 Instruction
 
-    use the local server built with Node.js to run the web application
+      use the local server built with Node.js to run the web application
